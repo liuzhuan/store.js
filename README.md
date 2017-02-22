@@ -1,3 +1,5 @@
+> This repository is used for conveniently reading `store.js` source code.
+
 store.js
 ========
 
